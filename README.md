@@ -112,5 +112,5 @@ olist-data-analytics/
 
 Felipe Honório
 
-* LinkedIn: [(https://www.linkedin.com/in/felipehonorio00/)]
-* GitHub: [(https://github.com/felipehnr00)]
+* LinkedIn: [https://www.linkedin.com/in/felipehonorio00/]
+* GitHub: [https://github.com/felipehnr00]

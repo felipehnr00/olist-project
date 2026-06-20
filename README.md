@@ -2,6 +2,12 @@
 
 An end-to-end Data Analytics and Business Intelligence project developed using the Brazilian E-Commerce Public Dataset by Olist.
 
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="images/dashboard_preview.png" width="100%">
+</p>
+
 The project covers the complete analytics workflow, from data exploration and cleaning with Python and Pandas to dashboard development in Power BI, transforming raw transactional data into actionable business insights.
 
 ---
@@ -113,16 +119,6 @@ olist-marketplace-analytics/
 │
 └── README.md
 ```
-
----
-
-# 📸 Dashboard Preview
-
-<p align="center">
-  <img src="images/dashboard_preview.png" width="900">
-</p>
-
----
 
 # 📈 Key Insights
 

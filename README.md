@@ -118,7 +118,9 @@ olist-marketplace-analytics/
 
 # 📸 Dashboard Preview
 
-(Add dashboard screenshot here)
+<p align="center">
+  <img src="images/dashboard_preview.png" width="900">
+</p>
 
 ---
 
